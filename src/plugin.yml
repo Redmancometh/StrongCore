@@ -1,0 +1,40 @@
+name: StrongCore
+main: sc.StrongCore
+version: 1.2
+commands:
+   nv:
+      description: Night Vision
+      usage: /nv
+   wb:
+      description: Water Breathing
+      usage: /wb
+   strength:
+      description: Strength Boost
+      usage: /strength
+   speed:
+      description: Speed Boost
+      usage: /speed
+   saddle1:
+      description: Speed Boost
+      usage: /speed 
+   saddle2:
+      description: Speed Boost
+      usage: /speed 
+   saddle3:
+      description: Speed Boost
+      usage: /speed 
+   saddle4:
+      description: Speed Boost
+      usage: /speed 
+   saddle5:
+      description: Speed Boost
+      usage: /speed    
+   giant:
+      description: Speed Boost
+      usage: /speed
+   rewards:
+      description: Check out rewards
+      usage: /rewards
+   vote:
+      description: Vote link
+      usage: /vote
